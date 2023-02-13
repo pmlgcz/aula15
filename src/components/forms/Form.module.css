@@ -1,0 +1,9 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+  }
+  
+  .successMessage {
+    color: green;
+  }
